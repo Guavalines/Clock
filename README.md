@@ -1,3 +1,3 @@
 ## Clock
 #### A simple analog clock, using only HTML, CSS, and JAVASCRIPT.
-![Clock](https://user-images.githubusercontent.com/100665876/203421942-0bdbb7fe-6cf9-418a-bbc9-46fc89bba62f.jpeg)
+![Clock](https://user-images.githubusercontent.com/100665876/203424288-00de768e-0959-4832-8127-549d03af6f7a.jpeg)
