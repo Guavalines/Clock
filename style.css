@@ -26,3 +26,30 @@ img {
   border: 5px solid darkgray;
   box-shadow: 1px 1px 4px rgba(0,0,0,.7);
 }
+.numbers div {
+  position: absolute;
+  font-size: 27px;
+  font-weight: bold;
+  color: lightgoldenrodyellow;
+  text-shadow: 1px 1px 2px rgba(0,0,0,.7);
+}
+.twelve {
+  top: 6px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.three {
+  right: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.six {
+  bottom: 6px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.nine {
+  left: 6px;
+  top: 50%;
+  transform: translateY(-50%);
+}
