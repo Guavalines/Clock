@@ -1,6 +1,10 @@
-# CLOCK
-Check it out here: [Clock](https://guavalines.github.io/Clock/)
-#### A simple analog clock, created with HTML, CSS, and JAVASCRIPT.
+# [CLOCK](https://guavalines.github.io/Clock/) ☜ see it here
+
+# Description
+This is a simple analog clock.
+
+# Features
+- Displays current time.
 
 # Tools
 
