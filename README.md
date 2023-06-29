@@ -1,4 +1,4 @@
-# [CLOCK](https://guavalines.github.io/Clock/) ☜ see it here
+# ⏰ [CLOCK](https://guavalines.github.io/Clock/) ☜ see it here
 
 # Description
 This is a simple analog clock.
